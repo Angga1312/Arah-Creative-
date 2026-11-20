@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 510 120" fill="none">
+  <!-- Letter A (Chevron without crossbar) -->
+  <path d="M18 102 L64 18 L76 18 L122 102 L98 102 L70 48 L42 102 Z" fill="#FFFFFF"/>
+  
+  <!-- Letter R -->
+  <path d="M142 18 H200 C222 18 236 29 236 47 C236 59 228 69 216 73 L242 102 H214 L192 76 H164 V102 H142 V18 Z M164 36 V58 H196 C207 58 214 54 214 47 C214 40 207 36 196 36 H164 Z" fill="#FFFFFF"/>
+  
+  <!-- Letter A (Chevron without crossbar) -->
+  <path d="M256 102 L302 18 L314 18 L360 102 L336 102 L308 48 L280 102 Z" fill="#FFFFFF"/>
+  
+  <!-- Letter H -->
+  <path d="M380 18 H402 V50 H434 V18 H456 V102 H434 V70 H402 V102 H380 V18 Z" fill="#FFFFFF"/>
+  
+  <!-- Green Dot -->
+  <circle cx="482" cy="94" r="11" fill="#C6F36B"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <rect width="800" height="500" fill="#1E222B"/>
+  <circle cx="400" cy="220" r="140" fill="#252A36" />
+  <circle cx="450" cy="200" r="80" fill="#C6F36B" opacity="0.15" />
+  <path d="M350 250 L450 170 L420 300 Z" stroke="#C6F36B" stroke-width="2" fill="none" opacity="0.4" />
+  <text x="400" y="270" text-anchor="middle" font-family="'Space Grotesk', sans-serif" font-size="20" font-weight="700" fill="#F5F5F0" letter-spacing="1">ARAH CREATIVE</text>
+  <text x="400" y="300" text-anchor="middle" font-family="'Inter', sans-serif" font-size="14" fill="#777777">Service Image Placeholder</text>
+</svg>
